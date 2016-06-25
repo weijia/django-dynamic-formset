@@ -1,3 +1,4 @@
 build/
 node_modules/
 
+/django_dynamic_formset_demo/*.pyc
